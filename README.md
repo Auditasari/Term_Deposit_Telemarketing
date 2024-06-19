@@ -9,7 +9,7 @@ Deposito berjangka merupakan salah satu sumber pendapatan utama bagi Bank Unity.
 2. Mengidentifikasi faktor kunci yang memengaruhi keputusan nasabah untuk berpartisipasi dalam deposito berjangka.
 3. Memberikan rekomendasi untuk meningkatkan dan mengembangkan segmentasi pasar produk deposito berjangka.
 
-#### Proses : 
+### Proses : 
 1. Data Collecting.
 2. Exploratory Data Analyst.
 3. Data Preprocessing.
